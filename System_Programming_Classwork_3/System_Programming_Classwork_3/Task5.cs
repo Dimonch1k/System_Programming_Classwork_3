@@ -3,6 +3,7 @@ using System.IO;
 using System.Linq;
 using System.Threading;
 
+
 namespace System_Programming_Classwork_3
 {
     public class Task5
@@ -24,16 +25,45 @@ namespace System_Programming_Classwork_3
             findMaxThread.Join();
             countAverageThread.Join();
 
+
             Console.WriteLine("End of Main thread");
+
+            // Write DATA into file "task.txt"
+            Thread writeDataThread = new Thread((() => WriteDataIntoFile(numbers)));
+            writeDataThread.Start();
+            writeDataThread.Join();
+
+
+
             Console.ReadKey();
+        }
 
+        // Write all data to file "task5.txt"
+        private void WriteDataIntoFile(int[] numbers)
+        {
+            FileStream fs = null;
 
-            if (File.Exists("Task5.txt")) return; //Checking if scores.txt exists or not
-
-            FileStream fs = File.Create("scores.txt"); //Creates Scores.txt
+            if (!File.Exists("task5.txt")) // Checking if Task5.txt exists or not
+            {
+            }
+            fs = File.Create("task5.txt"); // Creates Task5.txt
             fs.Close(); //Closes file stream
 
-            System.IO.File.WriteAllLines("scores.txt", numbers.Select(num => num.ToString()));
+            File.WriteAllLines("task5.txt", numbers.Select(num => num.ToString()));
+            File.AppendAllText("task5.txt", $"Minimal number: {FindMin(numbers)}" + Environment.NewLine
+                + $"Maximal number: {FindMax(numbers)}" + Environment.NewLine
+                + $"Average number: {CountAverage(numbers)}" + Environment.NewLine);
+
+            Console.WriteLine("The data were successfully written to the file 'task5.txt'");
+
+
+
+            //string jsonString = JsonSerializer.Serialize(person);
+
+            //// Write the JSON string to a file
+            //File.WriteAllText("person.json", jsonString);
+
+            //Console.WriteLine("JSON file created and data written successfully.");
         }
 
 
@@ -51,7 +81,8 @@ namespace System_Programming_Classwork_3
             return array;
         }
 
-        private void FindMin(int[] numbers)
+        // Find minimal number
+        private int FindMin(int[] numbers)
         {
             int min = numbers[0];
             foreach (int number in numbers)
@@ -60,12 +91,13 @@ namespace System_Programming_Classwork_3
                 {
                     min = number;
                 }
-
             }
             Console.WriteLine($"Min number: {min}");
+            return min;
         }
 
-        private void FindMax(int[] numbers)
+        // Find maximal number
+        private int FindMax(int[] numbers)
         {
             int max = Int32.MinValue;
             foreach (int number in numbers)
@@ -74,16 +106,19 @@ namespace System_Programming_Classwork_3
                 {
                     max = number;
                 }
-
             }
             Console.WriteLine($"Max number: {max}");
+            return max;
         }
 
-        private void CountAverage(int[] numbers)
+
+        // Count Average of numbers
+        private decimal CountAverage(int[] numbers)
         {
             int sum = Sum(numbers);
             decimal average = (decimal)sum / numbers.Length;
             Console.WriteLine($"Average number: {average}");
+            return average;
         }
 
 

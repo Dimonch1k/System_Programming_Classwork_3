@@ -3,38 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\system_programming_classwork_3\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\system_programming_classwork_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\system_programming_classwork_3\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\system_programming_classwork_3\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\system_programming_classwork_3\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_3\\system_programming_classwork_3\\system_programming_classwork_3\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\system_programming_classwork_3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E10B6E-38F4-4A54-8A72-1FB6897685FD}|System_Programming_Classwork_3\\System_Programming_Classwork_3.csproj|solutionrelative:system_programming_classwork_3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 156,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -42,13 +58,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Program.cs",
               "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Program.cs",
               "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Program.cs",
               "RelativeToolTip": "System_Programming_Classwork_3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwB8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T15:57:25.084Z",
               "IsPinned": true,
@@ -57,77 +73,127 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Task7.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task7.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Task7.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task7.cs",
+              "RelativeToolTip": "System_Programming_Classwork_3\\Task7.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:47:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task6.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task6.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Task6.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task6.cs",
+              "RelativeToolTip": "System_Programming_Classwork_3\\Task6.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:47:11.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task7.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Task7.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task7.cs [Design]",
+              "RelativeToolTip": "System_Programming_Classwork_3\\Task7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:46:38.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task6.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Task6.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task6.cs [Design]",
+              "RelativeToolTip": "System_Programming_Classwork_3\\Task6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:46:22.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Task5.cs",
               "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task5.cs",
               "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Task5.cs",
               "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task5.cs",
               "RelativeToolTip": "System_Programming_Classwork_3\\Task5.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAACAAAABLAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwC8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T17:44:23.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Task4.cs",
               "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task4.cs",
               "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Task4.cs",
               "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task4.cs",
               "RelativeToolTip": "System_Programming_Classwork_3\\Task4.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAAAFoAAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T17:17:58.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Task3.cs",
               "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task3.cs",
               "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Task3.cs",
               "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task3.cs",
               "RelativeToolTip": "System_Programming_Classwork_3\\Task3.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAYwCgAAAAIAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T17:04:37.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Task2.cs",
               "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task2.cs",
               "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Task2.cs",
               "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task2.cs",
               "RelativeToolTip": "System_Programming_Classwork_3\\Task2.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T16:45:03.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Task1.cs",
               "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task1.cs",
               "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Task1.cs",
               "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Task1.cs",
               "RelativeToolTip": "System_Programming_Classwork_3\\Task1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T16:38:33.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Singleton.cs",
               "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Singleton.cs",
               "RelativeDocumentMoniker": "System_Programming_Classwork_3\\Singleton.cs",
               "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\System_Programming_Classwork_3\\Singleton.cs",
               "RelativeToolTip": "System_Programming_Classwork_3\\Singleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T16:18:02.078Z",
               "EditorCaption": ""

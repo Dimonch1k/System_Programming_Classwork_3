@@ -1,13 +1,20 @@
 ﻿using System;
 using System.Threading;
+using System.Windows.Forms;
 
 namespace System_Programming_Classwork_3
 {
-    public class Task4
+    public partial class Task7 : Form
     {
+        public Task7()
+        {
+            InitializeComponent();
+            Run();
+        }
+
         public void Run()
         {
-            Console.WriteLine("\n\nStart of Main thread");
+            LB.Items.Add($"1. Start of Main thread");
 
             int[] numbers = GenerateArray();
             Thread findMinThread = new Thread((() => FindMin(numbers)));
@@ -22,8 +29,7 @@ namespace System_Programming_Classwork_3
             findMaxThread.Join();
             countAverageThread.Join();
 
-            Console.WriteLine("End of Main thread");
-            Console.ReadKey();
+            LB.Items.Add($"2. End of Main thread");
         }
 
 
@@ -37,6 +43,7 @@ namespace System_Programming_Classwork_3
                 // array[i] = rnd.Next(); // For random numbers
                 array[i] = i;
             }
+            LB.Items.Add($"\t1. Array has been generated");
 
             return array;
         }
@@ -52,7 +59,7 @@ namespace System_Programming_Classwork_3
                 }
 
             }
-            Console.WriteLine($"Min number: {min}");
+            LB.Items.Add($"\t2. Min number: {min}");
         }
 
         private void FindMax(int[] numbers)
@@ -66,16 +73,16 @@ namespace System_Programming_Classwork_3
                 }
 
             }
-            Console.WriteLine($"Max number: {max}");
+            LB.Items.Add($"\t3. Max number: {max}");
         }
 
         private void CountAverage(int[] numbers)
         {
             int sum = Sum(numbers);
             decimal average = (decimal)sum / numbers.Length;
-            Console.WriteLine($"Average number: {average}");
-        }
 
+            LB.Items.Add($"\t4. Average number: {average}");
+        }
 
         private int Sum(params int[] numbers)
         {
@@ -88,5 +95,6 @@ namespace System_Programming_Classwork_3
 
             return result;
         }
+
     }
 }

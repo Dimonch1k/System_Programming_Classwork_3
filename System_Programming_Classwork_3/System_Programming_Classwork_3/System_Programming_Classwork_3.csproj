@@ -35,6 +35,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,9 +53,29 @@
     <Compile Include="Task3.cs" />
     <Compile Include="Task4.cs" />
     <Compile Include="Task5.cs" />
+    <Compile Include="Task6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task6.Designer.cs">
+      <DependentUpon>Task6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Task7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task7.Designer.cs">
+      <DependentUpon>Task7.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Task6.resx">
+      <DependentUpon>Task6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task7.resx">
+      <DependentUpon>Task7.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
